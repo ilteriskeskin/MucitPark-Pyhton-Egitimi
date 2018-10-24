@@ -170,6 +170,10 @@
 
 # Modüllere Giriş
 
+# import modul
+#
+# modul.yazi()
+
 # import os
 #
 # print(os.name)
