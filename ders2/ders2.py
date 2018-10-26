@@ -68,13 +68,13 @@
 # else:
 #     print("Kullanıcı adı veya parola yanlış")
 
-        # Alternatif (Tavsiye edilmez)
-        # if ka == kullaniciAdi:
-        #     print("Kullanıcı adınız doğru")
-        #     if pr == parola:
-        #         print("Parolanız doğru")
-        # else:
-        #     print("Kullanıcı adı yanlış")
+# Alternatif (Tavsiye edilmez)
+# if ka == kullaniciAdi:
+#     print("Kullanıcı adınız doğru")
+#     if pr == parola:
+#         print("Parolanız doğru")
+# else:
+#     print("Kullanıcı adı yanlış")
 
 # --------------------------------------------------------
 
@@ -188,3 +188,21 @@
 # sayi = 5
 # #
 # print(math.factorial(sayi))
+
+# ---------------------------------
+
+# Kullanıcıdan bir üçgenin üç kenarının
+# boyutlarını alıp, üçgen çeşidini ekrana
+# basan programı h2e3.py ismindeki
+# dosyaya yazınız
+
+# kenar1 = int(input("Birinci kenarı giriniz: "))
+# kenar2 = int(input("İkinci kenarı giriniz : "))
+# kenar3 = int(input("Üçüncü kenarı giriniz : "))
+#
+# if kenar1 == kenar2 == kenar3:
+#     print("Eşkenar üçgendir.")
+# elif kenar1 == kenar2 or kenar1 == kenar3 or kenar2 == kenar3:
+#     print("İkizkenar ügendir.")
+# else:
+#     print("Çeşitkenar üçgendir.")
