@@ -34,7 +34,6 @@
     Programdan 'q' tuşu ile çıkabilirsiniz.
     ```
 7)   Aşağıdaki şekilleri for döngüsü yarımı ile oluşturup ekranda gösteren programı h3e7.py dosyası içerisine yazınız.
-
 ```    
     * 
     * * 
