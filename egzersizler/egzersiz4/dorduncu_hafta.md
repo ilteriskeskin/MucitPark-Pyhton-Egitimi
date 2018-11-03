@@ -13,22 +13,25 @@
 
     Örnek Çıktı:
 
-    ```
+```
         replace() : Karakter dizisi içerisindeki  karakterleri değiştirmeye yarar.
 
         replace()' den önce: selamet sonra: Selamet
 
-    ```
+```
 
     Örnek çıktıda kullanılan replace methodu kullanımı.
-    ```
+```
         s = "selamet"
         print(s) #selamet
         s.replace("s","S")
         print(s) # Selamet
-    ```
+```
 
-3) Kullanıcıdan alınan 13 sayıyı bir liste içerinde tutan ve bu liste içerisindeki sayıların tek ve çift olanlarının yerlerini değiştirerek ekranda öncesi ve sonrası şeklinde gösteren programı h4e3.py dosyasının yazınız.
+3) Kullanıcıdan alınan 13 sayıyı bir liste içerinde tutan ve bu liste içerisindeki sayıların tek ve çift olanlarının yerlerini değiştirerek ekranda öncesi ve sonrası şeklinde gösteren programı h4e3.py dosyasının yazınız. 
+```
+    [1,2,3,4,5,6] -> [2,1,4,3,6,5] şekline çevirilmeli
+```
 
 4) Kullanınıcıdan istediğiniz kadar sayı alın ve bu sayıları kullanıcının kaç kez girdiğini ekranda gösteren programı h4e4.py dosyasının içerisine yazınız.
 Örnek çıktı:
