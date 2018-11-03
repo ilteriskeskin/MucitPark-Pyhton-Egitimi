@@ -19,8 +19,8 @@
         replace()' den önce: selamet sonra: Selamet
 
 ```
-
-    Örnek çıktıda kullanılan replace methodu kullanımı.
+Örnek çıktıda kullanılan replace methodu kullanımı:
+    
 ```
         s = "selamet"
         print(s) #selamet
