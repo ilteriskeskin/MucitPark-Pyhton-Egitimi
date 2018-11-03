@@ -11,7 +11,7 @@
     ```
  2)   Yukarıda verilen methodları bir liste oluşturup deneyin.    Seçtiğiniz 5 fonksiyon için açıklama yaparak ekrana basan  programı h4e2.py dosyasının içerisinde yazınız.
 
-    Örnek Çıktı:
+Örnek Çıktı:
 
 ```
         replace() : Karakter dizisi içerisindeki  karakterleri değiştirmeye yarar.
