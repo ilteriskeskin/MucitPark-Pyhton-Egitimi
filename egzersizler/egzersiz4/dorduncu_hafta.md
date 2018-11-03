@@ -2,14 +2,14 @@
 
 1) Kullanıcıdan 3 kez aldığı isim ve yaş bilgisini bir liste içerisinde tutan ve bu listeyi ekranda gösteren programı h4e1.py dosyasının içerisine yazınız.
 
-2)
+
     ``` 
     replace() split(), rsplit(), splitlines(),lower(), upper() ,  
     islower(), isupper() ,endswith(), startswith(),capitalize(),   
     title(),swapcase(),casefold(),strip(), lstrip(), rstrip(),join(),
     count(),index(), rindex(),find, rfind(),center()
     ```
-    Yukarıda verilen methodları bir liste oluşturup deneyin.    Seçtiğiniz 5 fonksiyon için açıklama yaparak ekrana basan  programı h4e2.py dosyasının içerisinde yazınız.
+ 2)   Yukarıda verilen methodları bir liste oluşturup deneyin.    Seçtiğiniz 5 fonksiyon için açıklama yaparak ekrana basan  programı h4e2.py dosyasının içerisinde yazınız.
 
     Örnek Çıktı:
 
