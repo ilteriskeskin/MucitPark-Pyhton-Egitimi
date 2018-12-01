@@ -1,4 +1,4 @@
-# Üçüncü Hafta Egzersizler
+# Dördüncü Hafta Egzersizler
 
 1) Kullanıcıdan 3 kez aldığı isim ve yaş bilgisini bir liste içerisinde tutan ve bu listeyi ekranda gösteren programı h4e1.py dosyasının içerisine yazınız.
 
