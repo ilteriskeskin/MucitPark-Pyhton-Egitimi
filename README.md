@@ -9,3 +9,5 @@
     -[Üçüncü Hafta](https://github.com/ilteriskesk/MucitPark-Pyhton-Egitimi/blob/master/egzersizler/egzersiz3/ucuncu_hafta.md)
 
     -[Dördüncü Hafta](https://github.com/ilteriskesk/MucitPark-Pyhton-Egitimi/blob/master/egzersizler/egzersiz4/dorduncu_hafta.md)
+
+    -[Beşinci Hafta](https://github.com/ilteriskesk/MucitPark-Pyhton-Egitimi/blob/master/egzersizler/egzersiz5/besinci_hafta.md)
