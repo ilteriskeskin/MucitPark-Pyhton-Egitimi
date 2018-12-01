@@ -1,5 +1,7 @@
 # Besinci Hafta Egzersizleri
 
+NOT: Fonksiyonlarda kullanınlan parametreler aksi belirtilmedik taktirde kullanıcıdan alınacaktır.
+
 1) Parametre olarak isim, soyisim, yas gibi değişkenlerini alan bu girdileri ekranda basan programı bir fonksiyon yardımı ile yazınız h5e1.py dosyasının içerisine yazınız.
 
 Örnek fonksiyon kullanımı:
